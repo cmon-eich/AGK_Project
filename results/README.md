@@ -1,0 +1,3 @@
+Die im Rahmen der Rastersuche entstandenen Protokolle zu den einzelnen Modellen finden sich in den Archiven 'gradient_boosting.tar.gz' und 'random_forest.tar.gz'. Die hierin enthalten Resultate finden sich ebenfalls in übersichtlicher Form in den csv-Files 'gradient_boostring_test_results.csv' und 'random_forest_test_results.csv'.
+
+Die Ergebnisse der auf der gesammten Trainingsmenge trainierten und auf für die Testmenge getesteten Modelle finden sich in den Files 'gradient_boosting_generalization_protocol.txt' und 'random_forest_generalization_protocol.txt'.
