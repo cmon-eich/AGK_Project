@@ -1,0 +1,23 @@
+Classification report for classifier RandomForestClassifier(max_depth=50, min_samples_leaf=2, n_estimators=400,
+                       verbose=1) with hold_out:
+
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.95      0.96        84
+         1.0       0.57      0.88      0.69        24
+         2.0       1.00      0.50      0.67        24
+
+    accuracy                           0.86       132
+   macro avg       0.84      0.78      0.77       132
+weighted avg       0.90      0.86      0.86       132
+
+
+Confusion Matrix:
+
+[[80  4  0]
+ [ 3 21  0]
+ [ 0 12 12]]
+
+Accuracy=0.8560606060606061
+
+Time=0:00:43

@@ -1,0 +1,23 @@
+Classification report for classifier GradientBoostingClassifier(max_depth=5, min_samples_leaf=3, min_samples_split=5,
+                           n_estimators=200, random_state=0, verbose=1) with hold_out:
+
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99        84
+         1.0       0.56      0.58      0.57        24
+         2.0       0.61      0.58      0.60        24
+
+    accuracy                           0.84       132
+   macro avg       0.72      0.72      0.72       132
+weighted avg       0.84      0.84      0.84       132
+
+
+Confusion Matrix:
+
+[[83  1  0]
+ [ 1 14  9]
+ [ 0 10 14]]
+
+Accuracy=0.8409090909090909
+
+Time=0:39:40
